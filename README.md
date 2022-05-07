@@ -1,2 +1,2 @@
-# WAX_simple_staking_smartcontract
+# WAX_simple_staking_smartcontract.
  small demo contract with 3 basic functions, deposit, withdraw and mine to see if you can fit the job.  1. Create a token - Name -> Testtoken - Issue yourself 5'000 tokens. 2. Make a smartcontract where you can deposit / withdraw / mine the Testtoken - Deposit 300 tokens to the smart contract - Withdraw 200 tokens from the smart contract - Withdraw 400 tokens (this should bring an error) 3. Click on the mine function - Contracts issues you 100 tokens every time you click on mine.
